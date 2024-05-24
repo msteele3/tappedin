@@ -34,6 +34,6 @@ This project is licensed under the MIT License.
 Tapped In is an unofficial Chrome extension and is not affiliated with Instagram.
 
 ## Contact
-If you have any questions or feedback, please feel free to contact us at [your email address].
+If you have any questions or feedback, please feel free to contact us @msteele020 on twitter or @steelecodes on Instagram.
 
 Let's reclaim our Instagram experience together!
