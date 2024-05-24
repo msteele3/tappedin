@@ -1,0 +1,22 @@
+// {
+//     "manifest_version": 3,
+//     "name": "Instagram Direct Redirect",
+//     "version": "1.0",
+//     "description": "Redirects all non-direct Instagram traffic to the inbox.",
+//     "permissions": ["webNavigation", "sidePanel"]
+//     ,
+//     "background": {
+//       "service_worker": "background.js"
+//     },
+//     "host_permissions": [
+//       "https://www.instagram.com/*"
+      
+//     ]
+//   }
+
+
+"icons": {
+    "16": "images/icon-16.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
